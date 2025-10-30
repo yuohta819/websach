@@ -1,0 +1,11 @@
+@import "tailwindcss";
+input:focus {
+    border: unset;
+}
+input {
+    border: none;
+    outline: none;
+}
+* {
+    box-sizing: border-box;
+}
