@@ -1,7 +1,8 @@
 <script setup>
-import BackgroundMiddle from '../Main/Middle/BackgroundMiddle.vue'
-import ContentCategory from '../Category/InforCategory/ContentCategory.vue';
-import Animation from '../PageHome/Box/Animation.vue';
+import BackgroundMiddle from '../main/middle/BackgroundMiddle.vue';
+import ContentCategory from '../category/inforcategory/ContentCategory.vue';
+import Animation from '../pagehome/box/Animation.vue';
+
 const img = localStorage.getItem("imgAuthor")
 </script>
 <template>
