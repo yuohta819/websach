@@ -1,12 +1,13 @@
 <script setup>
 
-import ImgMain from '../../Main/Img/ImgMain.vue';
-import BoxImg from '../../PageHome/Middle/BoxImg.vue';
-import MiddleImg from '../../Main/Img/MiddleImg.vue';
-import Data from '../../PageHome/Middle/Data.vue';
-import Author from '../../Main/Middle/Author.vue';
-import Animation from '../../PageHome/Box/Animation.vue';
-import CategoryImg from '../../Main/Img/CategoryImg.vue';
+import ImgMain from '../../main/img/ImgMain.vue';
+import BoxImg from '../../pagehome/middle/BoxImg.vue';
+import MiddleImg from '../../main/img/MiddleImg.vue';
+import Data from '../../pagehome/middle/Data.vue';
+import Author from '../../main/middle/Author.vue';
+import Animation from '../../pagehome/box/Animation.vue';
+import CategoryImg from '../../main/img/CategoryImg.vue';
+
 </script>
 <template>
     <ImgMain />
