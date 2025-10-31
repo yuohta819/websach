@@ -12,7 +12,7 @@
 
 <script setup>
 import { ref, computed } from "vue";
-import Sidebar from "./sidebar.vue";
+import Sidebar from "./Sidebar.vue"
 import BookMenu from "./library/BookMenu.vue";
 
 // Quản lý menu đang chọn
