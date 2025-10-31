@@ -5,7 +5,7 @@ import { useToast } from 'vue-toastification'
 import { eventBus } from '../../components/eventBus'
 import Header from './pagehome/header/Header.vue' 
 import Taskbar from './pagehome/header/Taskbar.vue'
-import Information from './PageHome/Box/Information.vue'
+import Information from './pagehome/box/Information.vue'
 
 // ===== Scroll header effect =====
 const isScrolled = ref(false)
