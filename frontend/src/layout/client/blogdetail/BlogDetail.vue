@@ -1,7 +1,7 @@
 <script setup>
-import Background from '../Detail/DetailProduct/Background.vue';
-import ImgBlog from './AllBlog/ImgBlog.vue';
-import Animation from '../PageHome/Box/Animation.vue'
+import Background from '../detail/detailproduct/Background.vue';
+import ImgBlog from './allblog/ImgBlog.vue';
+import Animation from '../pagehome/box/Animation.vue';
 </script>
 
 <template>

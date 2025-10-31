@@ -1,11 +1,12 @@
 <script setup>
-import Header from '../PageHome/header/Header.vue';
-import Taskbar from "../PageHome/header/Taskbar.vue"
-import BackgroundBlog from "../Blog/BlogCategory/BackgroundBlog.vue"
-import DataBlog from "../Blog/BlogCategory/DataBlog.vue"
-import FormBlog from './BlogCategory/FormBlog.vue';
-import Animation from '../PageHome/Box/Animation.vue'
-import Information from "../PageHome/Box/Information.vue"
+import Header from '../pagehome/header/Header.vue';
+import Taskbar from '../pagehome/header/Taskbar.vue';
+import BackgroundBlog from '../blog/blogcategory/BackgroundBlog.vue';
+import DataBlog from '../blog/blogcategory/DataBlog.vue';
+import FormBlog from './blogcategory/FormBlog.vue';
+import Animation from '../pagehome/box/Animation.vue';
+import Information from '../pagehome/box/Information.vue';
+
 </script>
 <!-- Blog  -->
 <template>

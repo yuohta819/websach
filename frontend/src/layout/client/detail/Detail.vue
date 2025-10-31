@@ -1,12 +1,12 @@
 <script setup>
-import Header from '../PageHome/header/Header.vue';
-import Taskbar from '../PageHome/header/Taskbar.vue'
-import Background from './DetailProduct/Background.vue';
-import DetailBook from './DetailProduct/DetailBook.vue';
-import Descibe from './DetailProduct/Descibe.vue';
-import Data from '../PageHome/Middle/Data.vue';
-import Animation from '../PageHome/Box/Animation.vue';
-import Information from '../PageHome/Box/Information.vue';
+import Header from '../pagehome/header/Header.vue';
+import Taskbar from '../pagehome/header/Taskbar.vue';
+import Background from './detailproduct/Background.vue';
+import DetailBook from './detailproduct/DetailBook.vue';
+import Descibe from './detailproduct/Descibe.vue';
+import Data from '../pagehome/middle/Data.vue';
+import Animation from '../pagehome/box/Animation.vue';
+import Information from '../pagehome/box/Information.vue';
 </script>
 <!-- Chi Tiet 1 Quyen Sach -->
 <template>

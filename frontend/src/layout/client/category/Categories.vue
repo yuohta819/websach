@@ -1,8 +1,9 @@
 <script setup>
-import Background from '../Detail/DetailProduct/Background.vue';
-import BackgroundCategory from './InforCategory/BackgroundCategory.vue';
-import ContentCategory from './InforCategory/ContentCategory.vue';
-import Information from '../PageHome/Box/Information.vue';
+import Background from '../detail/detailproduct/Background.vue';
+import BackgroundCategory from './inforcategory/BackgroundCategory.vue';
+import ContentCategory from './inforcategory/ContentCategory.vue';
+import Information from '../pagehome/box/Information.vue';
+
 </script>
 <!-- Cac Loai San Pham -->
 <template>

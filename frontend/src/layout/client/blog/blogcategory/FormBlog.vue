@@ -11,7 +11,7 @@ const infor = ref('')
 
 function handleSubmit() {
     console.log(infor.value)
-    axios.post('http://localhost:8080/blog/update', {
+    axios.post(`${import.meta.env.VITE_API_URL_BACKEND}/blog/update`, {
         name: name.value,
         phone: phone.value,
         email: email.value,

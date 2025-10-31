@@ -1,8 +1,9 @@
 <script setup>
 
-import ContentBlog from './AllBlog/ContentBlog.vue';
-import ContentAllBlog from './AllBlog/ContentAllBlog.vue';
-import Animation from '../PageHome/Box/Animation.vue';
+import ContentBlog from './allblog/ContentBlog.vue';
+import ContentAllBlog from './allblog/ContentAllBlog.vue';
+import Animation from '../pagehome/box/Animation.vue';
+
 </script>
 
 <template>
