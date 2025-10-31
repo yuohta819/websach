@@ -1,7 +1,7 @@
 <script setup>
-import AuthorType from './AuthorType.vue';
-import BackgroundMillde from '../Main/Middle/BackgroundMiddle.vue'
-import Animation from '../PageHome/Box/Animation.vue';
+import AuthorType from './authortype.vue';
+import BackgroundMillde from '../main/middle/BackgroundMiddle.vue';
+import Animation from '../pagehome/box/Animation.vue';
 </script>
 
 <template>
