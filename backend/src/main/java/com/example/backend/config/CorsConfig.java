@@ -15,7 +15,7 @@ public class CorsConfig implements WebMvcConfigurer {
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**")
                 // 🔹 Cho phép tất cả đường dẫn trong frontend gọi đến
-                .allowedOriginPatterns(frontendUrl, "http://localhost:*", "https://localhost:*")
+                .allowedOriginPatterns("https://websach.onrender.com", "http://localhost:*", "https://localhost:*")
                 // 🔹 Các phương thức cho phép
                 .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                 // 🔹 Header cho phép gửi từ client
