@@ -1,15 +1,13 @@
 <script setup>
-import Header from "./header/Header.vue"
-import Taskbar from "./header/Taskbar.vue"
 import Middle from './header/Middle.vue'
-import Data from './Middle/Data.vue'
-import BoxImg from './Middle/BoxImg.vue'
-import Search from './Middle/Search.vue'
-import Blog from './Box/Blog.vue'
-import CategoryImg from "../Main/Img/CategoryImg.vue"
-import Animation from './Box/Animation.vue'
-import DataImg from "../Main/Img/DataImg.vue"
-import Finnaly from './Box/Finnaly.vue'
+import Data from './middle/Data.vue'
+import BoxImg from './middle/BoxImg.vue'
+import Search from './middle/Search.vue'
+import Blog from './box/Blog.vue'
+import CategoryImg from "../main/img/CategoryImg.vue"
+import Animation from './box/Animation.vue'
+import DataImg from "../main/Img/DataImg.vue"
+import Finnaly from './box/Finnaly.vue'
 </script>
 
 <template>
