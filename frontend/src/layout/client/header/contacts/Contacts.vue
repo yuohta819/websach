@@ -1,9 +1,10 @@
 <script setup>
 
 import Location from './Location.vue';
-import Background from '../../Detail/DetailProduct/Background.vue';
+import Background from '../../detail/detailproduct/Background.vue';
 import InformaitonContact from './InformaitonContact.vue';
-import Animation from '../../PageHome/Box/Animation.vue';
+import Animation from '../../pagehome/box/Animation.vue';
+
 </script>
 
 <template>

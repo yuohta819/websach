@@ -1,8 +1,9 @@
 <script setup>
 import DetailAuthor from './DetailAuthor.vue';
-import Data from '../../PageHome/Middle/Data.vue';
-import Comment from '../../Detail/DetailProduct/Comment.vue';
-import Animation from '../../PageHome/Box/Animation.vue'
+import Data from '../../pagehome/middle/Data.vue';
+import Comment from '../../detail/detailproduct/Comment.vue';
+import Animation from '../../pagehome/box/Animation.vue';
+
 </script>
 
 <template>

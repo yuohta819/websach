@@ -1,9 +1,10 @@
 <script setup>
-import Background from '../../Detail/DetailProduct/Background.vue';
-import BoxImg from '../../PageHome/Middle/BoxImg.vue';
-import Author from '../../Main/Middle/Author.vue';
-import AuthorMiddle from '../../Main/Middle/AuthorMiddle.vue';
-import Animation from '../../PageHome/Box/Animation.vue';
+import Background from '../../detail/detailproduct/Background.vue';
+import BoxImg from '../../pagehome/middle/BoxImg.vue';
+import Author from '../../main/middle/Author.vue';
+import AuthorMiddle from '../../main/middle/AuthorMiddle.vue';
+import Animation from '../../pagehome/box/Animation.vue';
+
 </script>
 <template>
     <Background />
