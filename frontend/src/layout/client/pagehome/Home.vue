@@ -6,7 +6,7 @@ import Search from './middle/Search.vue'
 import Blog from './box/Blog.vue'
 import CategoryImg from "../main/img/CategoryImg.vue"
 import Animation from './box/Animation.vue'
-import DataImg from "../main/Img/DataImg.vue"
+import DataImg from "../main/img/DataImg.vue"
 import Finnaly from './box/Finnaly.vue'
 </script>
 
